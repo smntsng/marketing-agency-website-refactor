@@ -10,6 +10,10 @@ To follow best practices for accessibility web development. There are 3 areas th
 
 These updates will help improve search engine optimization and accessibility. 
 
+![alt text](assets/images/screenshot.png)
+
+Application: https://smntsng.github.io/marketing-agency-website-refactor/
+
 ## Installation
 N/A
 
