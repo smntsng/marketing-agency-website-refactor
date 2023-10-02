@@ -109,7 +109,8 @@ main h2 {
 /* side bar style*/
 aside {
     margin-right: 20px;
-    padding: 20px;
+    padding: 30px;
+    padding-top: 60px;
     clear: both;
     float: right;
     width: 20%;
